@@ -1,0 +1,18 @@
+.bulb {
+  margin-left: 42%;
+  margin-top: 15%;
+}
+
+#Image {
+  margin-left: 520px;
+  margin-top: 50px;
+  padding: 0;
+}
+
+.button {
+  font-size: 20px;
+  letter-spacing: 3px;
+  margin-right: 20px;
+  color: red;
+  cursor: pointer;
+}
